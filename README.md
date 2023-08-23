@@ -10,7 +10,7 @@ The Hangman Game serves as an entertaining and educational project for those lea
 
 To run the Hangman Game on your local machine, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/hangman-game.git`
+1. Clone this repository: `git clone https://github.com/maxadaniels/Hangman-Game.git`
 2. Navigate to the project directory: `cd hangman-game`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
@@ -20,13 +20,13 @@ To run the Hangman Game on your local machine, follow these steps:
 
 If you have questions, need assistance, or want to report a bug or issue, feel free to:
 
-- Check the project's [GitHub Issues](https://github.com/your-username/hangman-game/issues) section for existing discussions or problems.
+- Check the project's [GitHub Issues](https://github.com/maxadaniels/Hangman-Game.git) section for existing discussions or problems.
 - Create a new issue if you can't find a solution to your problem.
-- Contact the project maintainer by emailing `maintainer@example.com`.
+- Contact the project maintainer by emailing `maxadaniels@icloud.com`.
 
 ## Maintainers and Contributors
 
-This project is maintained by [Your Name](https://github.com/your-username) and is open to contributions from the community. If you'd like to contribute, feel free to submit pull requests or collaborate on existing issues.
+This project is maintained by [Max Daniels](https://github.com/maxadaniels) and is open to contributions from the community. If you'd like to contribute, feel free to submit pull requests or collaborate on existing issues.
 
 ## License
 
